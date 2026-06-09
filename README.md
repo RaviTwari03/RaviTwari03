@@ -14,7 +14,12 @@ iOS Engineer | AI/ML & GenAI Developer
 
 ## Tech Stack
 
-Swift • SwiftUI • UIKit • Python • FastAPI • Azure AI • ChromaDB • LangGraph • Docker • Supabase
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0066FF?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Featured Projects
 
@@ -38,10 +43,5 @@ Swift • SwiftUI • UIKit • Python • FastAPI • Azure AI • ChromaDB •
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviTwari03&layout=compact)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RaviTwari03)](https://git.io/streak-stats)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0066FF?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 [![Ravi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaviTwari03&theme=github-compact)](https://github.com/RaviTwari03)
