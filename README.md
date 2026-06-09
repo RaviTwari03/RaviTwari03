@@ -21,14 +21,14 @@ Swift • SwiftUI • UIKit • Python • FastAPI • Azure AI • ChromaDB •
 ### RasoiChef
 🍽 Multi-role food ordering platform
 
-🔗 App Store Link
+🔗 [App Store Link](https://apps.apple.com/us/app/rasoichef/id6754779507)
 
 ### Smart Retail Assistant
 🤖 AI-powered retail management platform
 
-🔗 Live Demo
+🔗 [Live Demo](https://smart-retail-api-f6akbzfahzakhzdw.koreacentral-01.azurewebsites.net/)
 
 ### Fleet Management System
 🚚 Real-time GPS tracking and geofencing
 
-🔗 Demo Video
+🔗 [Demo Video](https://drive.google.com/file/d/18gKxtyfeenmaT1IFyUTbtxUc-oLuv8Mp/view?usp=drive_link)
