@@ -32,3 +32,9 @@ Swift • SwiftUI • UIKit • Python • FastAPI • Azure AI • ChromaDB •
 🚚 Real-time GPS tracking and geofencing
 
 🔗 [Demo Video](https://drive.google.com/file/d/18gKxtyfeenmaT1IFyUTbtxUc-oLuv8Mp/view?usp=drive_link)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaviTwari03&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviTwari03&layout=compact)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=RaviTwari03)
