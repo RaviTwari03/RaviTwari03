@@ -1,6 +1,6 @@
 # Hi, I'm Ravi Kumar Tiwari 👋
 
-### iOS Engineer | AI/ML & GenAI Developer
+### Software Developer | iOS Engineer | AI/ML & GenAI Developer
 
 📍 Jamshedpur, India
 
