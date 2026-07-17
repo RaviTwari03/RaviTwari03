@@ -38,9 +38,9 @@ iOS Engineer | AI/ML & GenAI Developer
 
 🔗 [Demo Video](https://drive.google.com/file/d/18gKxtyfeenmaT1IFyUTbtxUc-oLuv8Mp/view?usp=drive_link)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaviTwari03&show_icons=true)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=RaviTwari03&show_icons=true](https://github-readme-stats-sigma-five.vercel.app/api?username=RaviTwari03&show_icons=true))
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviTwari03&layout=compact)
+![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=RaviTwari03&layout=compact](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaviTwari03&layout=compact))
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RaviTwari03)](https://git.io/streak-stats)
 
