@@ -1,18 +1,22 @@
 # Hi, I'm Ravi Kumar Tiwari 👋
 
-iOS Engineer | AI/ML & GenAI Developer
+### iOS Engineer | AI/ML & GenAI Developer
 
 📍 Jamshedpur, India
 
-## About Me
+---
 
-- 📱 Published RasoiChef on the Apple App Store
-- 🤖 Built Smart Retail Assistant using RAG and LangGraph
+## 👨‍💻 About Me
+
+- 📱 Published **RasoiChef** on the Apple App Store
+- 🤖 Built **Smart Retail Assistant** using RAG and LangGraph
 - 🚀 Former iOS Developer at Nhancio Technologies
 - 🏆 Top 3% at Infosys Industry Development Program
-- 🎯 Interested in iOS, AI Engineering and Product Development
+- 🎯 Passionate about iOS, AI Engineering, and Product Development
 
-## Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0066FF?style=for-the-badge&logo=swift&logoColor=white)
@@ -21,27 +25,51 @@ iOS Engineer | AI/ML & GenAI Developer
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## Featured Projects
+---
 
-### RasoiChef
-🍽 Multi-role food ordering platform
+## 🚀 Featured Projects
 
-🔗 [App Store Link](https://apps.apple.com/us/app/rasoichef/id6754779507)
+### 🍽️ RasoiChef
 
-### Smart Retail Assistant
-🤖 AI-powered retail management platform
+A multi-role food ordering platform built using SwiftUI.
 
-🔗 [Live Demo](https://smart-retail-api-f6akbzfahzakhzdw.koreacentral-01.azurewebsites.net/)
+📱 App Store: https://apps.apple.com/us/app/rasoichef/id6754779507
 
-### Fleet Management System
-🚚 Real-time GPS tracking and geofencing
+---
 
-🔗 [Demo Video](https://drive.google.com/file/d/18gKxtyfeenmaT1IFyUTbtxUc-oLuv8Mp/view?usp=drive_link)
+### 🤖 Smart Retail Assistant
 
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=RaviTwari03&show_icons=true](https://github-readme-stats-sigma-five.vercel.app/api?username=RaviTwari03&show_icons=true))
+AI-powered retail management platform using RAG, LangGraph, ChromaDB and FastAPI.
 
-![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=RaviTwari03&layout=compact](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaviTwari03&layout=compact))
+🌐 Live Demo: https://smart-retail-api-f6akbzfahzakhzdw.koreacentral-01.azurewebsites.net/
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RaviTwari03)](https://git.io/streak-stats)
+---
 
-[![Ravi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaviTwari03&theme=github-compact)](https://github.com/RaviTwari03)
+### 🚚 Fleet Management System
+
+Real-time GPS tracking and geofencing solution.
+
+🎥 Demo Video: https://drive.google.com/file/d/18gKxtyfeenmaT1IFyUTbtxUc-oLuv8Mp/view
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RaviTwari03&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaviTwari03&layout=compact&theme=github_dark&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=RaviTwari03&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Ravi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaviTwari03&theme=github-compact)](https://github.com/RaviTwari03)
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/ravitwari03
+- 📧 Email: your-email@example.com
+
+---
+
+⭐️ Thanks for visiting my profile!
