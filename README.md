@@ -67,8 +67,8 @@ Real-time GPS tracking and geofencing solution.
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/ravitwari03
-- 📧 Email: your-email@example.com
+- 💼 LinkedIn: [https://linkedin.com/in/ravitwari03](https://www.linkedin.com/in/ravi-tiwari-b047652b4/)
+- 📧 Email: ravirkt0@gmail.com
 
 ---
 
